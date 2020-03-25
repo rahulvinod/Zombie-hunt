@@ -15,4 +15,9 @@ Made with love by team Seawolves :
 - Hamza Riswan
 - Rahul Vinod
 
+ScreenShots
+
+![photo_2020-03-25_18-46-52](https://user-images.githubusercontent.com/50511375/77543145-43056700-6ecd-11ea-89a7-6f7f440f4e27.jpg)
+![photo_2020-03-25_18-46-54](https://user-images.githubusercontent.com/50511375/77543152-44369400-6ecd-11ea-8695-9b42bfeebf3f.jpg)
+
 Under the Poco Game development Academy , Xiaomi India
